@@ -13,6 +13,9 @@ public class App {
         //TODO: call your test case functions one after other here
 
         tests.testCase01();
+        tests.testCase02_VerifyAdditionAndSubtraction();
+        tests.testCase03_Verify_The_AllClear_AC_ButtonAndMultiplicationOperation();
+        tests.testCase04_VerifyDivisionOperation();
 
         //END Tests
 
